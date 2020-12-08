@@ -1,0 +1,42 @@
+.container {
+    width: 95%;
+    max-width: 980px;
+    color: #707070;
+    margin: 0 auto;
+} 
+
+
+body {
+    font-size: 1.125rem;
+       color: #707070;
+       margin: 0;  
+}
+
+.columns {
+    display: flex;
+}
+
+/* Typography */
+h1 {
+    font-size: 3rem;
+    color: #312614; 
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5rem; 
+}
+
+span {
+    color: #B7832F;
+}
+
+img {
+    width: 960px;
+}
+
+.background-blk {
+    background: #312614;
+    color: #fff;
+}
+
